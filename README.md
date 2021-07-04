@@ -1,5 +1,8 @@
 # Testprojekt med Vite och Preact
 
+## Starta och kör
+`yarn run dev` och titta sen på [localhost:3000](http://localhost:3000)
+
 ### Komponenter och verktyg
 * Yarn
 * Vite
