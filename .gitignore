@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Stuff that came from scaffolding (i think?)
+.DS_Store
+dist-ssr
+*.local
